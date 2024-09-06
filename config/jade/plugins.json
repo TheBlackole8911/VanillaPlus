@@ -53,6 +53,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "create_mechanical_spawner": {
+    "spawner_data": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
