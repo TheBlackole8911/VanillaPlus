@@ -1,0 +1,14 @@
+#Wed Sep 04 13:30:16 BRT 2024
+refractionEnabled=false
+motionblurToggle=false
+waterFogEnabled=false
+vignetteEnabled=false
+directionalSSAO=false
+DoFQuality=0
+windEffectsEnabled=false
+fogEnabled=false
+bloomEnabled=false
+transparencyBlurEnabled=false
+DoFChromaDispersion=false
+FUTIL_LINDEPTH=false
+imageSharpenEnabled=false
