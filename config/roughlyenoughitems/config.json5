@@ -3,7 +3,7 @@
 		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
 		"keyBindings": {
@@ -253,7 +253,8 @@
 					"roughlyenoughresources:overworld_worldgen_category",
 					"roughlyenoughresources:loot_category",
 					"roughlyenoughresources:entity_loot_category",
-					"org.antarcticgardens.newage.compat.rei.NewAgeReiPlugin$$Lambda$45494/0x0000000804805d98@398eac45"
+					"nethersdelight:composition",
+					"org.antarcticgardens.newage.compat.rei.NewAgeReiPlugin$$Lambda$46844/0x00000008049e1958@f2dc459"
 				],
 				"hiddenCategories": []
 			}
